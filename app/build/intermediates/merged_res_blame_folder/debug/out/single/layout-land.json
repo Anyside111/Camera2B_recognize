@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.android.camera2.basic.app-mergeDebugResources-19:/layout-land/fragment_camera.xml",
+        "source": "com.example.android.camera2.basic.app-main-22:/layout-land/fragment_camera.xml"
+    }
+]

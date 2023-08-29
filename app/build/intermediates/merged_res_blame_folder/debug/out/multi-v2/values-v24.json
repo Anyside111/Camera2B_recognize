@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.camera2.basic.app-mergeDebugResources-18:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\10187\\.gradle\\caches\\transforms-3\\4fe740931840f17067e2a311f5ae0b46\\transformed\\appcompat-1.1.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
